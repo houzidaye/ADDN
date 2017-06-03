@@ -1,0 +1,4 @@
+#Sat Jun 03 15:26:22 AEST 2017
+base.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex

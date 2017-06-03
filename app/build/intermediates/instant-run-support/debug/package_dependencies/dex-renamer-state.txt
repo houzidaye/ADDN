@@ -1,0 +1,10 @@
+#Sat Jun 03 15:26:21 AEST 2017
+renamed.2=classes.dex
+renamed.1=classes2.dex
+renamed.0=classes3.dex
+base.2=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac20da475912395dc7246d8eba31ea55bcba41a6
+base.1=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.0_4e0ccec7c7687c476c52c8be2eab15a9dda10310
+base.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/2/hellocharts-library-1.5.8_d1cb2c58791863b0247cc1cbfe00badb2b112173
+file.2=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac20da475912395dc7246d8eba31ea55bcba41a6/classes.dex
+file.1=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.0_4e0ccec7c7687c476c52c8be2eab15a9dda10310/classes.dex
+file.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/2/hellocharts-library-1.5.8_d1cb2c58791863b0247cc1cbfe00badb2b112173/classes.dex

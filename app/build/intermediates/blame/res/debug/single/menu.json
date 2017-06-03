@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/menu/column_chart.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/menu/column_chart.xml"
+    }
+]

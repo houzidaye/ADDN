@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c12a2cdf4ff02225b83233b96d8be136e66cba3e">
+        <dex dex="/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2fbe784b801f8150aaf3f8c8746a3f2bfdc8022a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/libs/hellocharts-library-1.5.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/2/hellocharts-library-1.5.8_d1cb2c58791863b0247cc1cbfe00badb2b112173/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fead60b580d6e7e04155240ebae679604122ccdd/classes.dex" />
+    </item>
+
+</items>

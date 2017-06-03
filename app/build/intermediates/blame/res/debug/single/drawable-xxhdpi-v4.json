@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/jbshape.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/jbshape.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textview_border_select.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/textview_border_select.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/shape.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/shape.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/edit_bg.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/edit_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/textview_border_unselect.xml",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/textview_border_unselect.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Sat Jun 03 15:26:22 AEST 2017
+base.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2fbe784b801f8150aaf3f8c8746a3f2bfdc8022a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fead60b580d6e7e04155240ebae679604122ccdd/classes.dex
+base.1=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fead60b580d6e7e04155240ebae679604122ccdd
+file.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2fbe784b801f8150aaf3f8c8746a3f2bfdc8022a/classes.dex

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADDN</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_about">about</string>
+    <string name="about_us">About US</string>
+    <string name="australasian">AUSTRALASIAN</string>
+    <string name="diabetes">DIABETES</string>
+    <string name="data">DATA</string>
+    <string name="network">NETWORK</string>
+    <string name="disclaimer">This mobile application
+        (ADDNapp) is userd for 
+        benchmarking data(HBA1c and 
+        BMI) with the Australasian type-1 
+        diabetes platform(ADDN). The 
+        ADDNapp is completely secure 
+        and it does not try to collect 
+        other data, e.g. it does not access other services on your 
+        phone such as your current 
+        location. Should you have any 
+         concerns regarding the app then 
+         in the first instrance we 
+         recommend the you contact the 
+         Meibourne eResearch Group 
+         (wwww.eresearch.unimelb.edu.au). 
+         This app was supported through 
+         a grant from the National 
+         eResearch Collaboration Tools 
+         and Resources (NeCTAR-www.nectar.org.au) project. 
+         ADDN is supported byu a grant 
+         from the Juvenile Diabetes 
+         Research Foundation(JDRF- 
+         www.jdrf.org.au). </string>
+    <string name="hba1c_desc">HbA1c is a term commonly userd  in relation to diabetes.HbA1c refers to glycated haemoglobin. 
+         It develops when haemoglobin, a protein within red blood cells that carries oxygen throughout your 
+         body, joins with glucose in the blood, becoming glycated. By 
+         measuring HbA1c, clinicians are able to get an overall picture of 
+         what the average blood sugar levels have been over a period of 
+         weeks/months. For people with diabetes this is important as the 
+         higher the HbA1c, the greater the rish of developing diabetes-related complications.</string>
+    <string name="bmi_desc">BMI stands for Body Mass Index 
+     and is calculated by dividing your weight, in kilograms, by your 
+     height, in metres sguared. BMI is 
+     a useful tool to estimate whether 
+     you are underwight, orerweight 
+     or at a healthy weight in relation 
+     to your height. </string>
+    <string name="about_us_desc">This app was developed by the 
+    Melbourne eResearch Group 
+    (www.eresearch.unimelb.eddu.au). 
+    The Australasian Diabetes Data 
+    NetWork(ADDN-
+    www.addn.org.au) was funded 
+    through the Juvenile Diabetes Research Foundation (JDRF-
+    www.jdrf.org.au). It is noted that 
+    none of the data that is entered 
+    into the app is captured/stored 
+    by the application or by the 
+    central ADDN registry. Similarly, 
+    the application does not use any 
+    other information associated with 
+    you or your phone, e.g. your 
+    location. </string>
+    <string name="incomplete">  Some fileds in the form are missing, 
+        all fields mush be filled in. </string>
+    <string name="age_hint">Age</string>
+    <string name="height_hint">Height (cm)</string>
+    <string name="weight_hint">Weight (kg)</string>
+    <string name="hba1c_hint">HbA1c Ngsp</string>
+    <string name="gender_hint">Please Select Gender</string>
+    <string name="treatment_hint">Please Select Treatment</string>
+    <string name="html_url">https://www.ispad.org/?page=ISPADClinicalPract</string>
+
+</resources>

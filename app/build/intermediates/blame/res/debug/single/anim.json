@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/anim/abc_slide_out_top.xml"
+    }
+]

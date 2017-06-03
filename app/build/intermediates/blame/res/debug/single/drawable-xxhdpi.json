@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/addn_main.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/addn_main.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/about_us.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/about_us.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/age.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/age.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/weight.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/weight.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/hba1c_ngsp.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/hba1c_ngsp.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/binary_gender.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/binary_gender.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/height.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/height.png"
+    },
+    {
+        "merged": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/build/intermediates/res/merged/debug/drawable-xxhdpi/treatment.png",
+        "source": "/Users/zhangfangqing/Documents/Simon/Project/ADDN/app/src/main/res/drawable-xxhdpi/treatment.png"
+    }
+]
