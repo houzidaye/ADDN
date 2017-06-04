@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w500dp-v13/values-w500dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/res/values-w500dp/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 54,
+                        "endOffset": 238
+                    }
+                }
+            }
+        ]
+    }
+]

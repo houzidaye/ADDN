@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="/Users/zhangfangqing/.android/build-cache/00e5b375da7956d58c1197ca7936db8384274449/output/assets"/></dataSet><dataSet config="main"><source path="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/src/main/assets"/><source path="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/src/debug/assets"/></dataSet></merger>

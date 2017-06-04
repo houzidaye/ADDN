@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="binary_gender">
+        <item></item>
+        <item>MALE</item>
+        <item>FEMALE</item>
+    </string-array>
+    <string-array name="treatment">
+        <item></item>
+        <item>CSII</item>
+        <item>MDI</item>
+        <item>BD</item>
+    </string-array>
+</resources>

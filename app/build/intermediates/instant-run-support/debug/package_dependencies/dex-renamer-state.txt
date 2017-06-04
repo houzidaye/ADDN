@@ -1,0 +1,7 @@
+#Sun Jun 04 16:17:58 AEST 2017
+base.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.0_4e0ccec7c7687c476c52c8be2eab15a9dda10310
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac20da475912395dc7246d8eba31ea55bcba41a6/classes.dex
+base.1=/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac20da475912395dc7246d8eba31ea55bcba41a6
+file.0=/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.0.0_4e0ccec7c7687c476c52c8be2eab15a9dda10310/classes.dex

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_14d45794edb4c585a4deeda0664225771c676583/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae1df5d73d4594e4f34aa1250a9935be3f946a63">
+        <dex dex="/Users/zhangfangqing/Documents/Simon/Project/ADDN 3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c773ab3c62ca687f53c7f588e9d59cbe3312cba0/classes.dex" />
+    </item>
+
+</items>
